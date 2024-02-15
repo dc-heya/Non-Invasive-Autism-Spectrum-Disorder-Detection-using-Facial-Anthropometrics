@@ -1,5 +1,5 @@
 # Non-Invasive-Autism-Spectrum-Disorder-Detection-using-Facial-Anthropometrics
-The strategy for thisproject on non-invasive ASD detection seamlessly 
+The strategy for this project on non-invasive ASD detection seamlessly 
 blends theoretical synthesis with practical 
 implementation. Anchored in anthropometric 
 measurements, our exploration involves meticulous 

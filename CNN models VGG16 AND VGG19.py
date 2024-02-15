@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[127]:
-
-
 import pandas as pd
 import numpy as np
 import cv2
@@ -765,7 +759,7 @@ ax2.set_ylabel("True")
 ax2.set_title("Confusion Matrix")
 
 
-# In[ ]:
+
 
 
 
